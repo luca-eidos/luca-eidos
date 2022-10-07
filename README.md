@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Luca (@luca-eidos)
-- 👀 I’m interested in many programming languages (Java, Javascript, Python,...), Windows, Linux, embedded devices and IoT
-- 🌱 I’m currently learning Web development and advanced Python
+- 👀 I’m interested in many programming languages (mainly Java, Javascript, Python and C). 
+- 👌 I like developing for Windows, Linux, Android and embedded devices (like STM32, Arduino and Raspberry Pi).
+- ❤️ I love Web Development. My favourite technologies are React/Next and Firebase.
+- 💻 I'm currently working on an embedded project on STM32 microcontrollers and a web application based on Next and MongoDB. 
+- ❌ Not a big fan of Apple, but I have some experience on MacOS.
+- 🌱 I’m currently learning advanced C++ with Qt framework.
 - 📫 How to reach me: luca.giovannini@eidos-tech.com
-
-I'm not very good at introducing myself, so I'll make this better later :)
