@@ -3,6 +3,6 @@
 - 👌 I like developing for Windows, Linux, Android and embedded devices (like STM32, Arduino and Raspberry Pi).
 - ❤️ I love Web Development. My favourite technologies are React/Next and Firebase.
 - 💻 I'm currently working on an embedded project on STM32 microcontrollers and a web application based on Next and MongoDB. 
-- ❌ Not a big fan of Apple, but I have some experience on MacOS.
+- ❌ Not a big fan of Apple, but I have some experience with MacOS.
 - 🌱 I’m currently learning advanced C++ with Qt framework.
 - 📫 How to reach me: luca.giovannini@eidos-tech.com
